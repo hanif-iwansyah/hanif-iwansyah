@@ -1,62 +1,89 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Hanif Iwansyah 👋
 
-Welcome to my GitHub profile! I am a software engineer with a strong focus on **Java development**, **mobile app development**, and **cloud technologies**. I love building scalable, secure, and high-performance applications.
+Welcome to my GitHub profile! I'm a passionate **Software Engineer**, specializing in **Java development**, **cloud-native technologies**, and **mobile development**. I thrive in creating **scalable**, **secure**, and **performance-optimized applications**. Here you'll find my journey in **full-stack development**, **DevOps**, and **AI/ML**. Let’s build something great together!
 
-## About Me
-- 🔭 I’m currently working on microservices-based applications using **Spring Boot** and **Kotlin**.
-- 🌱 I’m currently learning **cloud-native technologies** and **Kubernetes**.
-- 👯 I’m looking to collaborate on **Java, Kotlin, Flutter** projects and open-source contributions.
-- 🤔 I’m looking for help with **scaling applications** and **optimizing cloud infrastructure**.
-- 💬 Ask me about **Spring Boot**, **microservices**, **Kotlin**, and **Android development**!
-- 📫 How to reach me: [Your Email]
-- ⚡ Fun fact: I enjoy **problem-solving** and love tackling complex challenges.
+## 🚀 About Me
+- 🔭 I’m currently developing **microservices** architectures with **Spring Boot** and **Kotlin**, and working on **cloud-native** apps with **Kubernetes** and **Docker**.
+- 🌱 Exploring **machine learning** and **AI-powered applications** with frameworks like **TensorFlow**.
+- 👯 I’m actively looking to collaborate on **Open Source** projects in **cloud computing**, **DevOps**, and **AI**.
+- 🤔 I’m passionate about improving **code quality**, **scalability**, and **deployment automation**.
+- 💬 Ask me about **Spring Boot**, **Kotlin**, **Android development**, **Cloud-native technologies**, and **AI/ML**.
+- ⚡ Fun fact: I love **solving complex algorithms**, **playing chess**, and learning about the latest tech trends.
 
-## Skills
-Here are some of the technologies and tools I work with:
+## 🛠️ Skills & Technologies
+Here are some of the **cutting-edge tools** and **technologies** I’m working with:
 
-### Programming Languages:
+### 🚀 **Programming Languages**:
 - `Java SE`, `Java EE`, `Kotlin`, `Flutter`
 
-### Frameworks & Libraries:
-- `Spring Boot`, `Spring Security`, `OAuth2`, `Jetpack`, `Retrofit`, `OkHttp`
+### 🛠️ **Frameworks & Libraries**:
+- **Backend**: `Spring Boot`, `Spring Security`, `Spring Cloud`, `OAuth2`, `Micronaut`, `Quarkus`
+- **Mobile**: `Jetpack`, `Kotlin Multiplatform`, `Flutter`
+- **Frontend**: `React`, `Vue.js`, `Next.js`
+- **APIs**: `GraphQL`, `RESTful API`, `SOAP`, `gRPC`, `WebSockets`
 
-### Architecture & Design Patterns:
-- `MVC`, `MVP`, `MVVM`, `Clean Architecture`, `Microservices`
+### 🏗️ **Architecture & Design Patterns**:
+- **Microservices** & **Serverless Architecture**
+- `MVC`, `MVP`, `MVVM`, **Event-driven**, **CQRS**
+- **Clean Architecture**
+- **Cloud-Native**: `Kubernetes`, `Docker`
 
-### Build & Dependency Management:
-- `Maven`, `Gradle`
+### ⚙️ **Build & Dependency Management**:
+- `Maven`, `Gradle`, `Jenkins`, `GitLab CI`, **GitHub Actions**
 
-### Testing & QA:
-- `JUnit`, `Mockito`
+### 🔒 **Security & DevOps**:
+- **OAuth2**, **JWT**, **SSO**, **Keycloak**
+- **CI/CD**: `Jenkins`, `GitHub Actions`, `GitLab CI`
+- **DevOps**: `Docker`, `Kubernetes`
 
-### Databases:
-- `Oracle`, `PostgreSQL`, `SQLite`, `Room`, `Shared Preferences`
+### 🧪 **Testing & QA**:
+- **Unit Testing**: `JUnit 5`, `Mockito`
+- **Integration Testing**: `WireMock`, `TestContainers`
+- **UI Testing**: `Selenium`
 
-### APIs & Communication:
-- `RESTful API`, `SOAP`, `JWT`, `Kafka`
+### 🗃️ **Databases**:
+- **SQL**: `PostgreSQL`, `Oracle DB`, `MySQL`
+- **NoSQL**: `MongoDB`, `Cassandra`, `Elasticsearch`
+- **Mobile DB**: `Room`, `SQLite`
+- **Cache**: `Redis`, `Memcached`
 
-### Cloud & DevOps:
-- `Docker`, `Kubernetes`, `CI/CD`
+### ☁️ **Cloud & Serverless**:
+- **Cloud Providers**: `AWS`, `GCP`, `Azure`
+- **Serverless Framework**: `AWS Lambda`, `Google Cloud Functions`, `Azure Functions`
+- **Kubernetes** & **Helm Charts**
 
-### Tools & Platforms:
-- `IntelliJ IDEA`, `Android Studio`, `VS Code`, `Git`, `Bitbucket`, `TFS`, `Firebase Services`
+### 🎨 **UI/UX & Design**:
+- `Figma`, `Sketch`, `Adobe XD`
+- **Responsive Design**, **Material UI**, **Tailwind CSS**
 
-### UI/UX & Design:
-- `Figma`
+## 🌱 My Current Focus:
+- Building **cloud-native microservices** with **Spring Boot** & **Kubernetes**
+- Integrating **AI models** into production apps with **TensorFlow**
+- Experimenting with **Kotlin Multiplatform** for **cross-platform mobile** apps
+- Improving **CI/CD pipelines** with **GitHub Actions** and **Terraform**
+- Contributing to **Open Source** projects related to **DevOps** and **Machine Learning**
 
-### Methodologies:
-- `Agile (Scrum)`, `Waterfall`
+---
 
-### Soft Skills:
-- `Communication`, `Teamwork`, `Time Management`, `Adaptability`
+## 📣 Fun Facts:
+- I’m a **tech enthusiast** who loves contributing to **open-source projects** and **collaborating** with others to solve complex problems.
+- **Gaming and AI** are two of my biggest passions, and I often build small **AI-based games** for fun.
+- I regularly speak at **local meetups** and contribute to **tech blogs** about **cloud architecture** and **DevOps practices**.
 
-## Projects
-- [My Portfolio](https://github.com/[YourGitHubUsername]/portfolio) - A personal website showcasing my work.
-- [Microservices Application](https://github.com/[YourGitHubUsername]/microservices-app) - A microservices-based application using **Spring Boot** and **Docker**.
-- [Kotlin Android App](https://github.com/[YourGitHubUsername]/kotlin-android-app) - A Kotlin-based Android app built with **Jetpack** and **Room**.
-- [Flutter Mobile App](https://github.com/[YourGitHubUsername]/flutter-mobile-app) - A cross-platform mobile app using **Flutter**.
+---
 
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/[YourLinkedInUsername]/)
-- [Twitter](https://twitter.com/[YourTwitterHandle])
-- [Website](https://[YourWebsite].com)
+### Key Additions for 2025:
+
+- **Emerging Tech**: I’ve added **Machine Learning**, **Kotlin Multiplatform**, and **Serverless** as they continue to gain traction in 2025.
+- **Modern Tools**: Updated tools like **GitHub Actions**, **Terraform**, **Docker**, **Kubernetes**, and **Service Mesh** technologies are included to reflect industry trends.
+- **Personal Stats**: Integrating your **GitHub Stats** adds credibility and makes your profile more dynamic.
+- **AI/ML Focus**: I’ve included **TensorFlow**, **PyTorch**, and **Deep Learning** sections to show your understanding of AI in 2025.
+
+### Final Thoughts:
+- Use **badges** to highlight certifications or tech stacks you’re proficient in (e.g., AWS Certified, Docker, Java).
+- Make sure to keep your **GitHub Stats** up to date and provide links to active projects.
+- Keep contributing to **open-source** and **community-driven** initiatives. This builds your profile and demonstrates your collaborative skills.
+
+---
+
+Would you like to add more specific details, or need help setting up any sections? Let me know!
